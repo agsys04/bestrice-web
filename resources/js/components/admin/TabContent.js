@@ -27,7 +27,7 @@ function TabContent() {
                         ratio="4x3"
                         allowFullScreen
                         class="cdb-iframe"
-                        src="https://checkout-staging.xendit.co/web/62b897d03b94df2099c0d703"
+                        src="https://checkout-staging.xendit.co/web/62bd2166ebfbb3b36b61d76c"
                         title="Payment Sample"
                     ></iframe>
                 </div>
